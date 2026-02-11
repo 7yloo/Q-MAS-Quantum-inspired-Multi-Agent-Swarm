@@ -1,5 +1,5 @@
 # 🐜 Q-MAS: Quantum-inspired Multi-Agent Swarm
-
+[![Hugging Face Model](https://img.shields.io/badge/🤗-Model%20Card-ffcc00)](https://huggingface.co/ay933/Q-MAS)
 **A 7-Layer Hybrid Swarm Intelligence Framework for Resilient Navigation in Noisy Environments**
 
 **Abdullah Hawas** — *Independent Researcher, Dhi Qar, Iraq*
